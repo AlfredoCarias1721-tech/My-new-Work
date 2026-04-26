@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/50495/Desktop/Carpeta_Profesional_Jose Alfredo/Programacion_I_Parcial_2026/Unidad_I/Codigo_Fuente",
+      "program": "c:/Users/50495/Desktop/Carpeta_Profesional_Jose Alfredo/Programacion_I_Parcial_2026/Unidad_I/Codigo_Fuente/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
